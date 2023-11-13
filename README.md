@@ -18,7 +18,7 @@ https://github.com/andrew-karppinen/py-boulderdash/tree/master
 
 ## Ascii art generator
 
-Ascii art generator made in python with opencv2:
+Ascii art generator made in python with opencv:
 
 https://github.com/andrew-karppinen/ascii-art-creator
 
