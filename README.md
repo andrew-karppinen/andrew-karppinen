@@ -7,7 +7,7 @@
 
 ## py-boulderdash
 Online boulderdash game made in python with pygame and socket:
-https://github.com/andrew-karppinen/py-boulderdash/tree/master
+https://github.com/andrew-karppinen/py-boulderdash
 
 <p align="center">
   <img src="https://github.com/andrew-karppinen/py-boulderdash/assets/99529988/3a42cf29-0c55-40b5-990d-40fb8e9b9496" alt="Kuva">
