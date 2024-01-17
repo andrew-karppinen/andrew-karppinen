@@ -5,12 +5,12 @@
 
 
 
-## py-boulderdash
+## Kallio
 Online boulderdash game made in python with pygame and socket:
-https://github.com/andrew-karppinen/py-boulderdash
+https://github.com/andrew-karppinen/kallio
 
 <p align="center">
-  <img src="https://github.com/andrew-karppinen/py-boulderdash/assets/99529988/3a42cf29-0c55-40b5-990d-40fb8e9b9496" alt="Kuva">
+  <img src="https://github.com/andrew-karppinen/kallio/assets/99529988/3a42cf29-0c55-40b5-990d-40fb8e9b9496" alt="Kuva">
 </p>
 
 
