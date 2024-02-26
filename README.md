@@ -7,6 +7,7 @@
 
 ## Kallio
 Online boulderdash game made in python with pygame and socket:
+
 https://github.com/andrew-karppinen/kallio
 
 <p align="center">
@@ -16,6 +17,7 @@ https://github.com/andrew-karppinen/kallio
 
 ## Heating control
 Heating control software for raspberry pi:
+
 https://github.com/andrew-karppinen/heating-control
 
 <p align="center">
