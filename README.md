@@ -11,7 +11,7 @@ Online boulderdash game made in python with pygame and socket:
 https://github.com/andrew-karppinen/kallio
 
 <p align="center">
-  <img src="https://github.com/andrew-karppinen/kallio/assets/99529988/3a42cf29-0c55-40b5-990d-40fb8e9b9496" alt="Kuva">
+  <img src="https://github.com/user-attachments/assets/15ffbc2c-d48d-4015-9caa-82eca7e76cd6" alt="Kuva">
 </p>
 
 
