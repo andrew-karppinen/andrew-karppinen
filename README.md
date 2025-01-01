@@ -25,8 +25,9 @@ https://github.com/andrew-karppinen/heating-control
 </p>
 
 
-##Airport Quest
+## Airport Quest
 Full stack project uses javascript,html,css,python,sql
+
 https://github.com/andrew-karppinen/Lentokonepeli
 
 ## Ascii art generator
