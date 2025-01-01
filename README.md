@@ -26,7 +26,7 @@ https://github.com/andrew-karppinen/heating-control
 
 
 ## Airport Quest
-Full stack project uses javascript,html,css,python,sql
+Full stack project uses JavaScript,Html,CSS,Python,SQL
 
 https://github.com/andrew-karppinen/Lentokonepeli
 
