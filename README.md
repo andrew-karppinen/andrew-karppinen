@@ -21,7 +21,7 @@ Heating control software for raspberry pi:
 https://github.com/andrew-karppinen/heating-control
 
 <p align="center">
-  <img src="https://github.com/andrew-karppinen/heating-control/assets/99529988/ffc3d48f-85cc-4206-ae21-d91b45234194" alt="Kuva">
+  <img src="https://github.com/user-attachments/assets/e0a6d1dd-2171-41ea-bb9a-368602f6efe9" alt="Kuva">
 </p>
 
 
