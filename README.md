@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## My public repositories
+## Some of my projects
 
 
 
