@@ -65,7 +65,7 @@ Add next features: Camera tracking, automatic collision detection system, object
 </p>
 
 
-### Other repositories
+### all public repositories
 https://github.com/andrew-karppinen?tab=repositories
 
 
